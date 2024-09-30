@@ -1,0 +1,27 @@
+ 
+.image {
+    width: 100%; /* Full width for the image */
+    /* Full height for the image */
+    object-fit: cover;
+     /* Maintain aspect ratio and cover the area */
+     border-radius: 3%;
+    
+    }
+.overlay-button{
+    position: relative;
+    left: 73%;
+    bottom: 54%;
+    margin-top: -100px;
+    z-index: 1;
+    width: 25%;
+    height: 30%;
+    border-radius: 12%;
+}
+h3{
+    position: relative;
+    top: 18%;
+    left: 3%;
+    
+}
+
+  

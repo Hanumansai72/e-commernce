@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(27,27,27);
+}
+.title{
+    color: black;
+    text-align: center;
+    margin-top: 60px;
+    font-size: 33px;
+}
+label{
+    color: black;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+label,input,a{
+    position: relative;
+    left: 34%;
+    margin-bottom: 5px;
+    
+}
+input[type="text"],input[type="password"]{
+    width: 450px;
+    height: 40px;
+    border-radius: 8px;
+
+}
+
+.submit{
+    background-color: rgb(37, 169, 37);
+    cursor: pointer;
+    width: 450px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+}
+.link{
+    color: black;
+}

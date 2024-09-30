@@ -1,0 +1,27 @@
+.image{
+    width: 700px;
+
+}
+.Name{
+    position: absolute;
+    left: 50%;
+    width: 50%;
+    bottom: 50%;
+    font-size: 40px;
+}
+.price{
+
+    position: absolute;
+    left: 50%;
+    width: 50%;
+    bottom: 35%;
+    font-size: 20px;
+}
+.bb{
+    position: absolute;
+    left: 50%;
+    bottom: 15%;
+    width: 30%;
+    border-radius: 2%;
+
+}
